@@ -1,0 +1,32 @@
+# Angular
+node_modules/
+dist/
+.angular/
+.cache/
+npm-debug.log*
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.rsuser
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+*.env
+
+# Database backup
+*.bak
+*.trn
+*.ldf
+*.mdf
